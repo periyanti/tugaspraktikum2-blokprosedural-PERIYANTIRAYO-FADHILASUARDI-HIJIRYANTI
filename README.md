@@ -1,4 +1,4 @@
-# tugaspraktikum2-blokprosedural-PERIYANTIRAYO-FADHILASUARDI-HIJIRYANTI
+# tugaspraktikum2-blokprosedural-PERIYANTIRAYO-FADHILASUARDI-HIJRYANTI
 
 # 📘 README.md
 
